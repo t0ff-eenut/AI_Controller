@@ -1,0 +1,15 @@
+# OAK-D Lite DepthAI SDK
+depthai>=2.24.0
+
+# 시리얼 통신 (BCU UART)
+pyserial>=3.5
+
+# 컨트롤러 입력
+pygame>=2.5.0
+
+# 영상 처리
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# (선택) 객체 감지 - YOLO
+# ultralytics>=8.0.0
